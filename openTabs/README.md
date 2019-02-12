@@ -5,7 +5,7 @@ HOW TO USE:
 Change website to the web address that you want to open.
 Change numWindows to be the number of tabs you want to open.
 To open in a normal chrome tab (not in incognito), remove the "--incognito" parameter.
-Keep in mind that openning too many tabs can cause problems, so keep numWindows to a reasonable number.
+Keep in mind that openning too many tabs can cause problems, so keep numWindows at a reasonable number.
 
 WHY I MADE THIS SCRIPT:
 If somebody has enabled a shareable link for a Google Doc, you can open multiple instances of that document on separate tabs.
