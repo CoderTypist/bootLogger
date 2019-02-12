@@ -1,6 +1,9 @@
 DESCRIPTION:
 Opens a specified web address a specific number of times in an incogonito chrome window.
 
+INTENDED PURPOSE:
+To make it seem as if a lot of people are viewing a Google Doc.
+
 HOW TO USE:
 Change website to the web address that you want to open.
 Change numWindows to be the number of tabs you want to open.
