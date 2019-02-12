@@ -1,7 +1,7 @@
 @echo off
 
 set website=https://www.google.com/
-set numWindows=40
+set numWindows=10
 
 set count=0
 
