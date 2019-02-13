@@ -2,7 +2,7 @@ DESCRIPTION:
 Opens a specified web address a specific number of times in an incogonito chrome window.
 
 INTENDED PURPOSE:
-To make it seem as if a lot of people are viewing a Google Doc.
+To make it seem as if a lot of people are viewing a Google Doc. However, Google will eventually realize what is going on and the effect of having many viewers will go away. The effect of having lots of viewers is temporary.
 
 HOW TO USE:
 Change website to the web address that you want to open.
