@@ -16,5 +16,5 @@ rem creates bootLogger.bat
 if not exist "C:\Users\%username%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\bootLogger.bat" (
     type nul > boolLogger.bat
     attrib +h "C:\Users\%username%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\bootLogger.bat"
-    echo echo %date% %time% %username% ^>^> "C:\ProgramData\Programs\bootLog.txt" > "C:\Users\%username%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\bootLogger.bat"
+    echo echo %%date%% %%time%% %%username%% ^>^> "C:\ProgramData\Programs\bootLog.txt" > "C:\Users\%username%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\bootLogger.bat"
 )
